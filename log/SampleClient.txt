@@ -1,0 +1,192 @@
+16:56:44.778 INFO  ca.uhn.fhir.util.VersionUtil - HAPI FHIR version 4.2.0 - Rev 8491707942
+16:56:44.797 INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+16:56:46.093 INFO  ca.uhn.fhir.util.XmlUtil - FHIR XML procesing will use StAX implementation 'Java Runtime Environment' version '1.8.0_281'
+16:56:47.408 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/metadata HTTP/1.1
+16:56:47.908 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 496ms
+16:56:48.191 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ALBERTSON HTTP/1.1
+16:56:48.677 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 486ms
+Time per request: 486
+16:56:48.721 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=BOYLE HTTP/1.1
+16:56:49.461 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 732ms
+Time per request: 740
+16:56:49.545 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=CHEN HTTP/1.1
+16:56:50.072 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 527ms
+Time per request: 527
+16:56:50.117 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DESANTIS HTTP/1.1
+16:56:50.504 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 386ms
+Time per request: 386
+16:56:50.507 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DOYLE HTTP/1.1
+16:56:51.261 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 754ms
+Time per request: 754
+16:56:51.311 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=EDMILSON HTTP/1.1
+16:56:51.678 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 367ms
+Time per request: 367
+16:56:51.680 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ERICSSON HTTP/1.1
+16:56:52.042 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 361ms
+Time per request: 361
+16:56:52.045 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=FERNANDEZ HTTP/1.1
+16:56:52.543 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 498ms
+Time per request: 498
+16:56:52.557 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=HARRIS HTTP/1.1
+16:56:53.402 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 845ms
+Time per request: 846
+16:56:53.434 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=JOHNSON HTTP/1.1
+16:56:54.238 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 804ms
+Time per request: 805
+16:56:54.271 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=LIN HTTP/1.1
+16:56:55.101 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 830ms
+Time per request: 830
+16:56:55.161 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MARCOS HTTP/1.1
+16:56:55.548 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 387ms
+Time per request: 387
+16:56:55.552 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MCQUEEN HTTP/1.1
+16:56:55.945 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 393ms
+Time per request: 394
+16:56:55.948 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=PARK HTTP/1.1
+16:56:57.261 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1313ms
+Time per request: 1313
+16:56:57.305 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RAMOS HTTP/1.1
+16:56:57.752 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 446ms
+Time per request: 447
+16:56:57.762 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RODRIGUEZ HTTP/1.1
+16:56:59.158 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1396ms
+Time per request: 1396
+16:56:59.189 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ROSSI HTTP/1.1
+16:56:59.662 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 472ms
+Time per request: 473
+16:56:59.672 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20BASTEN HTTP/1.1
+16:57:00.052 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 380ms
+Time per request: 380
+16:57:00.055 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20DYKE HTTP/1.1
+16:57:00.478 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 423ms
+Time per request: 424
+16:57:00.481 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=YAMAKUSHI HTTP/1.1
+16:57:00.867 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 386ms
+Time per request: 387
+Total sum for 20 requests: 12201
+Average time per 20 runs for iteration 1 : 610
+16:57:03.870 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ALBERTSON HTTP/1.1
+16:57:04.042 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 172ms
+Time per request: 172
+16:57:04.045 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=BOYLE HTTP/1.1
+16:57:04.475 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 430ms
+Time per request: 430
+16:57:04.496 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=CHEN HTTP/1.1
+16:57:04.695 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 198ms
+Time per request: 199
+16:57:04.715 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DESANTIS HTTP/1.1
+16:57:04.776 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 60ms
+Time per request: 60
+16:57:04.779 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DOYLE HTTP/1.1
+16:57:05.173 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 394ms
+Time per request: 394
+16:57:05.192 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=EDMILSON HTTP/1.1
+16:57:05.254 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 61ms
+Time per request: 62
+16:57:05.257 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ERICSSON HTTP/1.1
+16:57:05.314 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 57ms
+Time per request: 58
+16:57:05.317 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=FERNANDEZ HTTP/1.1
+16:57:05.469 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 152ms
+Time per request: 153
+16:57:05.478 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=HARRIS HTTP/1.1
+16:57:06.139 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 660ms
+Time per request: 660
+16:57:06.171 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=JOHNSON HTTP/1.1
+16:57:06.940 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 768ms
+Time per request: 769
+16:57:06.958 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=LIN HTTP/1.1
+16:57:07.692 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 734ms
+Time per request: 734
+16:57:07.728 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MARCOS HTTP/1.1
+16:57:07.791 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 63ms
+Time per request: 63
+16:57:07.794 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MCQUEEN HTTP/1.1
+16:57:07.854 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 60ms
+Time per request: 60
+16:57:07.857 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=PARK HTTP/1.1
+16:57:08.903 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1046ms
+Time per request: 1046
+16:57:08.935 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RAMOS HTTP/1.1
+16:57:09.141 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 205ms
+Time per request: 206
+16:57:09.143 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RODRIGUEZ HTTP/1.1
+16:57:10.215 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1072ms
+Time per request: 1072
+16:57:10.247 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ROSSI HTTP/1.1
+16:57:10.395 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 147ms
+Time per request: 147
+16:57:10.401 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20BASTEN HTTP/1.1
+16:57:10.460 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 58ms
+Time per request: 59
+16:57:10.463 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20DYKE HTTP/1.1
+16:57:10.519 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 56ms
+Time per request: 56
+16:57:10.522 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=YAMAKUSHI HTTP/1.1
+16:57:10.577 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 54ms
+Time per request: 55
+Total sum for 20 requests: 6455
+Average time per 20 runs for iteration 2 : 322
+16:57:13.579 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ALBERTSON HTTP/1.1
+16:57:14.039 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 460ms
+Time per request: 460
+16:57:14.041 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=BOYLE HTTP/1.1
+16:57:14.774 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 733ms
+Time per request: 733
+16:57:14.799 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=CHEN HTTP/1.1
+16:57:15.353 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 554ms
+Time per request: 554
+16:57:15.372 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DESANTIS HTTP/1.1
+16:57:15.803 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 430ms
+Time per request: 431
+16:57:15.806 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=DOYLE HTTP/1.1
+16:57:16.472 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 666ms
+Time per request: 667
+16:57:16.488 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=EDMILSON HTTP/1.1
+16:57:16.841 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 352ms
+Time per request: 353
+16:57:16.844 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ERICSSON HTTP/1.1
+16:57:17.208 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 364ms
+Time per request: 364
+16:57:17.210 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=FERNANDEZ HTTP/1.1
+16:57:17.707 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 497ms
+Time per request: 497
+16:57:17.712 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=HARRIS HTTP/1.1
+16:57:18.692 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 980ms
+Time per request: 980
+16:57:18.712 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=JOHNSON HTTP/1.1
+16:57:19.693 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 981ms
+Time per request: 981
+16:57:19.712 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=LIN HTTP/1.1
+16:57:21.010 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1298ms
+Time per request: 1298
+16:57:21.043 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MARCOS HTTP/1.1
+16:57:21.422 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 379ms
+Time per request: 380
+16:57:21.425 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=MCQUEEN HTTP/1.1
+16:57:21.767 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 342ms
+Time per request: 343
+16:57:21.770 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=PARK HTTP/1.1
+16:57:23.186 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1416ms
+Time per request: 1417
+16:57:23.205 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RAMOS HTTP/1.1
+16:57:23.596 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 390ms
+Time per request: 391
+16:57:23.601 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=RODRIGUEZ HTTP/1.1
+16:57:24.828 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 1227ms
+Time per request: 1228
+16:57:24.850 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=ROSSI HTTP/1.1
+16:57:25.388 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 537ms
+Time per request: 538
+16:57:25.393 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20BASTEN HTTP/1.1
+16:57:25.778 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 385ms
+Time per request: 385
+16:57:25.781 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=VAN%20DYKE HTTP/1.1
+16:57:26.128 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 347ms
+Time per request: 347
+16:57:26.130 INFO  c.u.f.r.c.i.LoggingInterceptor - Client request: GET http://hapi.fhir.org/baseR4/Patient?family=YAMAKUSHI HTTP/1.1
+16:57:26.512 INFO  c.u.f.r.c.i.LoggingInterceptor - Client response: HTTP 200 OK in 382ms
+Time per request: 382
+Total sum for 20 requests: 12729
+Average time per 20 runs for iteration 3 : 636
+Average times for 3 runs: [610, 322, 636]
